@@ -1,8 +1,8 @@
-package com.company;
+package triangle.program;
 
 import java.util.Scanner;
 
-public class Main {
+public class TriangleProgram {
 
     public static void main(String[] args) {
         Triangle triangle = new Triangle();
@@ -23,4 +23,5 @@ public class Main {
             System.out.println("...");
         }
     }
+
 }
