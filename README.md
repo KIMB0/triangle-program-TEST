@@ -42,6 +42,7 @@ Answered on Moodle.
 4. **Review code that mysteriously fails its unit tests (1 SP)**
 
     I'm having a hard time here to see what the problem is? Is it the use of some types that isn't allowed?
+    I think has something to do with the list is a static list. 
 
 5. **Coding Standard Document (1 SP)**
 
